@@ -1,0 +1,25 @@
+header{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+main {
+  margin: 30px;
+  margin-top: 100px;
+  padding: 35px;
+  background-color: rgb(0, 0, 153);
+  color: rgb(255, 255, 179);
+}
+
+
+
+.navbar {
+  margin-left: 100px;
+  margin-right: 100px;
+
+  background-color: rgb(0, 0, 153);
+  color: yellow;
+}
+.card{
+  color: blue;
+  margin-left: 40px;
+}
